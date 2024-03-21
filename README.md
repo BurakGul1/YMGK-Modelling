@@ -98,4 +98,11 @@ Bifurkasyon Diyagramı Analizi, sistem davranışındaki dönüşümleri ve kaot
 #
 
 
-![1018px-LogisticMap_BifurcationDiagram](https://github.com/BurakGul1/YMGK-Modelling/assets/115585501/538ec187-fdca-4673-a074-315411371a74)
+![640px-LogisticMap_BifurcationDiagram](https://github.com/BurakGul1/YMGK-Modelling/assets/115585501/a35be279-b641-49c9-b8e4-4a6dccb14040)
+
+
+#
+
+
+![Bifurkasyon math](https://github.com/BurakGul1/YMGK-Modelling/assets/115585501/bf01b07c-b2da-46ce-beab-384ddaf4850c)
+

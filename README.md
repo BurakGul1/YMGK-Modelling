@@ -1,6 +1,22 @@
 # YMGK-Modelling
 Yazılım Mühendisliği Gündüz A grubu Modelleme çalışması
 
+#
+
+# Bifurkasyon Tarihçe
+
+Henri Poincaré tarafından ortaya atılan bifurkasyon kavramı, sistemlerin belirli parametre değerleri altında nasıl değiştiğini ve dallandığını ifade eder. Aynı dönemde Edward Lorenz ve W. E. Ricker, popülasyon dinamiklerini modellemek için lojistik diferansiyel denklemleri üzerinde çalıştılar.
+
+W. E. Ricker, popülasyon düzeyindeki değişimi simüle etmek için lojistik diferansiyel denklemini kullandı. Bu denklem, bir sonraki yılın popülasyon miktarını belirlemek için geçen yılın popülasyon miktarı ve popülasyon artış hızını temel alır. Ricker, denklemdeki parametre değerlerini değiştirerek popülasyon davranışını inceledi. Küçük parametre değerleri için popülasyon sabit kalırken, daha büyük değerlerde davranış karmaşık hale gelir.
+
+Robert May, 1970'lerin başlarında aynı denklem üzerinde çalışmaya başladı ve parametre değerlerinin etkilerini daha detaylı inceledi. Belirli bir noktadan sonra, parametre değerlerinin artmasıyla popülasyon davranışı karmaşık ve kaotik bir hal alır. May, bu karmaşık davranışı görselleştirmek için bifurkasyon diyagramı adı verilen bir grafik geliştirdi.
+
+May, çalışmalarında epidemiyolojiye de odaklandı ve salgın hastalıkların düzensiz olarak dönemsel olarak meydana geldiğini gözlemledi. Modelleme çalışmaları, nonlineer sistemlerin beklenmedik ve yüksek artışlar gösterebileceğini ortaya koydu. Örneğin, kızamıkçık ile mücadele programlarındaki ani artışlar, aşı kampanyalarının başarısız olduğu düşüncesini sorguladı ve sistemlerin genel karakterini göz önünde bulundurmayı savundu.
+
+Bu çalışmalar, nonlineer sistemlerin karmaşık davranışlarını anlamak ve bu sistemlerle etkili bir şekilde başa çıkmak için önemli bir adım olarak kabul edilir.
+
+#
+
 # Fizibilite Raporu: Bifurkasyon Diyagramı Analizi
 
 # Giriş
@@ -78,3 +94,8 @@ Bifurkasyon Diyagramı Analizi, sistem davranışındaki dönüşümleri ve kaot
 - Eğitim ve Uygulama: Kullanıcıların analiz sürecini daha iyi anlaması ve doğru şekilde uygulaması için eğitim programları düzenlenmelidir.
 - Yazılım ve Arayüz Geliştirmeleri: Analiz için kullanılan yazılımların kullanımı daha kolay ve erişilebilir hale getirilmelidir.
 - Veri Kalitesi ve Doğruluk: Analiz için gereken verilerin doğruluğu ve kalitesi sağlanmalı, eksik veya yanlış verilerin analize etkisi minimize edilmelidir.
+
+#
+
+
+![1018px-LogisticMap_BifurcationDiagram](https://github.com/BurakGul1/YMGK-Modelling/assets/115585501/538ec187-fdca-4673-a074-315411371a74)

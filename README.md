@@ -106,3 +106,6 @@ Bifurkasyon Diyagramı Analizi, sistem davranışındaki dönüşümleri ve kaot
 
 ![Bifurkasyon math](https://github.com/BurakGul1/YMGK-Modelling/assets/115585501/bf01b07c-b2da-46ce-beab-384ddaf4850c)
 
+#
+
+Kaynaklar ve Referanslar: https://tr.wikipedia.org/wiki/Bifurkasyon

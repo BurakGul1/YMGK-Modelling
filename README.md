@@ -46,8 +46,7 @@ Belirli parametre değerlerinin sistem davranışı üzerindeki etkileri anlaş�
 
 Bifurkasyon Diyagramı Analizi, sistem davranışındaki dönüşümleri ve kaotik davranışları belirlemek için etkili bir yöntemdir. Ancak, analiz sonuçlarının doğru yorumlanması ve sistem özelliklerinin anlaşılması önemlidir.
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
+# 
 
 
 # SWOT Analizi: Bifurkasyon Diyagramı Analizi
